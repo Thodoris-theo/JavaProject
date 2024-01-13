@@ -1,8 +1,4 @@
 
-/*
- Spyros Kanakopoylos 3212018071 
-   Thodoris Theodorellis 3212018061
- */
 package project;
 
 import javafx.application.Application;
